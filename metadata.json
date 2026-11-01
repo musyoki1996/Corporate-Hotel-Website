@@ -1,0 +1,6 @@
+{
+  "name": "Imperial Crown Hotel",
+  "description": "Experience the Royal Standard. Premium international luxury hotel featuring sophisticated accommodations, world-class dining, royal suites, wellness spa, and bespoke guest experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
